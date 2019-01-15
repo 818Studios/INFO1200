@@ -20,8 +20,12 @@
                Text="Select a Language and I will say Good Morning"
                HorizontalOptions="Center"
                VerticalOptions="Center"
-               
-               ></Label>
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="3"
+               FontSize="24"
+        />
+        
     </Grid>
 
 </ContentPage>
