@@ -7,8 +7,49 @@
 
     <Grid>
         <Grid.ColumnDefinitions>
-            
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label 
+            x:Name="lblInstructionTitle" Text="Select a Language and I will say Good Morning"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Grid.Column="0"
+            Grid.Row="0"
+            Grid.RowSpan="3"
+        />
+        <Label
+            x:Name="lblTranslation" Text="Translation"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Grid.Column="0"
+            Grid.Row="0"
+            Grid.RowSpan="3"
+        />
+        <Button
+            x:Name="btnItalian" Text="Italian"
+            Grid.Row="1"
+            Grid.Column="0"
+            Clicked="BtnItalian_Clicked"
+        />
+        <Button
+            x:Name="btnSpanish" Text="Spanish"
+            Grid.Row="1"
+            Grid.Column="1"
+            Clicked="BtnSpanish_Clicked"
+        />
+        <Button
+            x:Name="btnGerman" Text="German"
+            Grid.Row="1"
+            Grid.Column="2"
+            Clicked="BtnGerman_Clicked"
+        />
     </Grid>
 
 </ContentPage>

@@ -1,0 +1,12 @@
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\bin\Debug\netstandard2.0\KHLangTrans.deps.json
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\bin\Debug\netstandard2.0\KHLangTrans.dll
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\bin\Debug\netstandard2.0\KHLangTrans.pdb
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\KHLangTrans.csprojAssemblyReference.cache
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\KHLangTrans.csproj.CoreCompileInputs.cache
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\KHLangTrans.AssemblyInfoInputs.cache
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\KHLangTrans.AssemblyInfo.cs
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\KHLangTrans.dll
+C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\obj\Debug\netstandard2.0\KHLangTrans.pdb
