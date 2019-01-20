@@ -3,5 +3,6 @@
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>Theme.DeviceDefault.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
     <SelectedDevice>TCL 9024W</SelectedDevice>
+    <DefaultDevice>custom_pixel</DefaultDevice>
   </PropertyGroup>
 </Project>

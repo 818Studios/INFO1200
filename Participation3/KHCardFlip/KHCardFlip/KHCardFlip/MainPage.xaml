@@ -3,8 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:KHCardFlip"
              x:Class="KHCardFlip.MainPage"
-             Title="Kurt's Card Flip">
-            
+             Title="My Deck"
+             >
+
 
     <Grid>
         <Grid.RowDefinitions>
@@ -14,12 +15,28 @@
         <StackLayout Orientation="Horizontal" 
                      HorizontalOptions="Center"
                      VerticalOptions="Center"
+                     Grid.Row="1"
                      >
             <Image Source="Ace_Spades.jpg" 
-                   IsVisible="False" />
-            <Image Source="Backface_Blue" 
-                   IsVisible="True" />
+                   IsVisible="False"
+                   Margin="5"
+                   x:Name="ImgFace"
+                   />
+            <Image Source="Backface_Blue.jpg" 
+                   Margin="5"
+                   x:Name="ImgBack"
+                   />
         </StackLayout>
+
+        <Button 
+            Grid.Row="2"
+            Text="Show Card Face"
+            FontSize="36"
+            VerticalOptions="Center"
+            Padding="15"
+            x:Name="BtnFlip"
+            Clicked="BtnFlip_Clicked"
+            />
     </Grid>
 
 </ContentPage>

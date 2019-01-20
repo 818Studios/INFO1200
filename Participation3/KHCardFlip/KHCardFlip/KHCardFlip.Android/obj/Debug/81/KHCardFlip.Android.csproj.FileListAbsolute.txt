@@ -34,6 +34,8 @@ C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCard
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\R.cs.flag
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\R.txt
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\uploadflags.txt
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\res\drawable\ace_spades.jpg
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\res\drawable\backface_blue.jpg
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\bin\Debug\Mono.Android.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\bin\Debug\mscorlib.pdb
@@ -79,8 +81,6 @@ C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCard
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\linksrc\Mono.Security.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\bin\Debug\KHCardFlip.dll.mdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\linksrc\KHCardFlip.dll.mdb
-C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\res\drawable\ace_spades.jpg
-C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\res\drawable\backface_blue.jpg
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\android\assets\KHCardFlip.dll.mdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\android\assets\KHCardFlip.Android.pdb
@@ -104,4 +104,6 @@ C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCard
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\bin\Debug\netstandard2.0\KHCardFlip.dll
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\bin\Debug\KHCardFlip.dll.mdb
 C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip.Android\obj\Debug\81\linksrc\KHCardFlip.dll.mdb
