@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:KHCardFlip"
+             x:Class="KHCardFlip.MainPage"
+             Title="Kurt's Card Flip">
+            
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackLayout Orientation="Horizontal" 
+                     HorizontalOptions="Center"
+                     VerticalOptions="Center"
+                     >
+            <Image Source="Ace_Spades.jpg" />
+            <Image Source="Backface_Blue" />
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

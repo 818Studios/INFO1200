@@ -1,2 +1,0 @@
-C:\Users\HK_06\source\repos\INFO1200\Participation2\LanguageTranslator\LanguageTranslator\LanguageTranslator.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
-C:\Users\HK_06\source\repos\INFO1200\Participation2\LanguageTranslator\LanguageTranslator\LanguageTranslator.Android\obj\Debug\81\LanguageTranslator.Android.csprojAssemblyReference.cache

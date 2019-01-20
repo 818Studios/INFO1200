@@ -22,15 +22,15 @@
             VerticalOptions="Center"
             Grid.Column="0"
             Grid.Row="0"
-            Grid.RowSpan="3"
+            Grid.ColumnSpan="3"
         />
         <Label
             x:Name="lblTranslation" Text="Translation"
             HorizontalOptions="Center"
             VerticalOptions="Center"
             Grid.Column="0"
-            Grid.Row="0"
-            Grid.RowSpan="3"
+            Grid.Row="2"
+            Grid.ColumnSpan="3"
         />
         <Button
             x:Name="btnItalian" Text="Italian"

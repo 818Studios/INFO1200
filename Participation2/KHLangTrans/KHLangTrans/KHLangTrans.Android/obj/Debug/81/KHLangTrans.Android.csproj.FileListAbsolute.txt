@@ -102,6 +102,4 @@ C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLa
 C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans\bin\Debug\netstandard2.0\KHLangTrans.dll
-C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans.Android\bin\Debug\KHLangTrans.dll.mdb
 C:\Users\HK_06\source\repos\INFO1200\Participation2\KHLangTrans\KHLangTrans\KHLangTrans.Android\obj\Debug\81\linksrc\KHLangTrans.dll.mdb

@@ -1,0 +1,12 @@
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\bin\Debug\netstandard2.0\KHCardFlip.deps.json
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\bin\Debug\netstandard2.0\KHCardFlip.dll
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\bin\Debug\netstandard2.0\KHCardFlip.pdb
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\KHCardFlip.csprojAssemblyReference.cache
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\KHCardFlip.csproj.CoreCompileInputs.cache
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\KHCardFlip.AssemblyInfoInputs.cache
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\KHCardFlip.AssemblyInfo.cs
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\KHCardFlip.dll
+C:\Users\HK_06\source\repos\INFO1200\Participation3\KHCardFlip\KHCardFlip\KHCardFlip\obj\Debug\netstandard2.0\KHCardFlip.pdb
