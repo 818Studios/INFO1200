@@ -15,8 +15,10 @@
                      HorizontalOptions="Center"
                      VerticalOptions="Center"
                      >
-            <Image Source="Ace_Spades.jpg" />
-            <Image Source="Backface_Blue" />
+            <Image Source="Ace_Spades.jpg" 
+                   IsVisible="False" />
+            <Image Source="Backface_Blue" 
+                   IsVisible="True" />
         </StackLayout>
     </Grid>
 
